@@ -1,17 +1,3 @@
-# **GLOBAL TERRORISM ANALYSIS**
-
-####  Analysed by **SAMARPAN DAS**
-
-![SpecialForces](https://user-images.githubusercontent.com/55103824/123479237-45012d00-d61e-11eb-94ad-17c46eec3a64.jpg)
-
-
-
-
----
-
-
-
-### **Introduction**
 
 ### 1. The Global Terrorism Database
 
